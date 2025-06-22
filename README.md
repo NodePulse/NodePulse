@@ -8,7 +8,7 @@
 ## 💼 Skills Overview
 
 ### 🚀 Development
-<img src="./react.png" width="40" /> React &nbsp;&nbsp;
+[React](https://img.shields.io/badge/React?style=for-the-badge&logo=./react.png) &nbsp;&nbsp;
 <img src="./node.png" width="40" /> Node.js &nbsp;&nbsp;
 <img src="./python.svg" width="40" /> Python &nbsp;&nbsp;
 <img src="./typescript.svg" width="40" /> TypeScript &nbsp;&nbsp;
