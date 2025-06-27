@@ -10,7 +10,7 @@
 ## 🖥️ Portfolio
 
 Explore my latest work and case studies here:  
-👉 **[sachinbharbey.vercel.app](https://sachinbharbey.vercel.app)**  
+👉 **[sachin-bharbey.vercel.app](https://sachin-bharbey.vercel.app)**  
 A showcase of my web development, data science, and creative projects.
 
 ---
