@@ -99,7 +99,6 @@ Explore my latest work and case studies—a showcase of my skills in web develop
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NodePulse&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph"/>
 </div>
 
-<div align="center">
   <picture>
 
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
@@ -109,6 +108,5 @@ Explore my latest work and case studies—a showcase of my skills in web develop
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 
 </picture>
-</div>
 
 [![](https://visitcount.itsvg.in/api?id=NodePulse&icon=0&color=0)](https://visitcount.itsvg.in)
