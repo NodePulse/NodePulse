@@ -86,7 +86,7 @@ Explore my latest work and case studies—a showcase of my skills in web develop
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NodePulse&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=NodePulse&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=NodePulse&theme=dark&hide_border=false" alt="GitHub Streak"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NodePulse&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
 </div>
